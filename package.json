@@ -1,8 +1,8 @@
 {
-  "name": "atom-diakonos-syntax",
+  "name": "diakonos-black-syntax",
   "theme": "syntax",
   "version": "0.8.0",
-  "description": "A theme similar to the default Diakonos theme.  Blue and white on black.",
+  "description": "A port of the default Diakonos theme.  Blue and white on black.",
   "keywords": [
     "syntax",
     "theme"
