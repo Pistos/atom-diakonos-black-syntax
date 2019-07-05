@@ -1,14 +1,14 @@
 {
   "name": "atom-diakonos-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "version": "0.8.0",
+  "description": "A theme similar to the default Diakonos theme.  Blue and white on black.",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/atom/atom-diakonos-syntax",
-  "license": "MIT",
+  "repository": "https://github.com/Pistos/atom-diakonos-syntax",
+  "license": "GPL",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   }
