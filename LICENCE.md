@@ -1,4 +1,4 @@
-atom-diakonos syntax
+atom-diakonos-black-syntax
 Copyright (C) 2019 Pistos
 
 ### GNU GENERAL PUBLIC LICENSE
